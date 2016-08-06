@@ -1,0 +1,25 @@
+_repo: Snubby-Nose-and-Tippy-Toes_10329
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Laura Rountree
+    birthdate: 1876
+    deathdate: 1924
+    gutenberg_agent_id: '3469'
+    url: http://www.gutenberg.org/2009/agents/3469
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10329'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Rabbits -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Snubby Nose and Tippy Toes
+url: http://www.gutenberg.org/ebooks/10329
